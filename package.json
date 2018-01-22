@@ -1,0 +1,28 @@
+{
+  "name": "char-sortinator",
+  "version": "1.0.0",
+  "description": "character sorter",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebkress/Char-Sortinator.git"
+  },
+  "keywords": [
+    "character",
+    "sorter"
+  ],
+  "author": "Caleb Kress",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebkress/Char-Sortinator/issues"
+  },
+  "homepage": "https://github.com/calebkress/Char-Sortinator#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node": "^9.4.0",
+    "nodemon": "^1.14.11"
+  }
+}
